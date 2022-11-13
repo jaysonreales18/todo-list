@@ -32,12 +32,14 @@ body {
     position: relative;
 }
 
-.task-input i {
+.task-input i,
+.task-input i svg {
     position: absolute;
     top: 30%;
     transform: translate(17px, -8%);
-    opacity: 0.2;
+    opacity: 0.5;
     font-size: 24px;
+    color: #3c87ff;
 }
 
 .task-input input {
