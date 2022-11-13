@@ -36,8 +36,8 @@ body {
     position: absolute;
     top: 25%;
     transform: translate(17px, -8%);
-    opacity: 0.5;
-    font-size: 30px;
+    opacity: 0.3;
+    font-size: 28px;
 }
 
 .task-input input {
