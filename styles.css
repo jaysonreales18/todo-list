@@ -156,6 +156,7 @@ body {
 }
 
 .task-box .task input {
+    margin-top: 2px;
     accent-color: #3c87ff;
 }
 
